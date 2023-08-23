@@ -1,0 +1,6 @@
+name: OfflineUUID
+version: '${project.version}'
+main: pl.offlineuuid.OfflineUUID
+api-version: 1.19
+authors: [Assasin98980]
+description: Set non-cracked players cracked UUID on your Minecraft server.
